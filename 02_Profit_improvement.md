@@ -1,4 +1,4 @@
 
 ## Profit Improvement 
 
-More of Harri's edits to this, now with pull request
+We improve utilization by 5% and reduce unpaid work by 10%
