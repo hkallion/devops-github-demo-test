@@ -1,6 +1,7 @@
 
 ## Profit Improvement 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Summarize our LT discussion here...
+Get people out of cost coverage assignments
+Strong control of the OBM process
+Kick salesguys in the a...
+Buy a beer for everyone that brings in a lead
