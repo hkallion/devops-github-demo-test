@@ -1,8 +1,6 @@
 
 ## Sales Acceleration 
 
-The quick brown fox jumps over the lazy dog.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-uusi yritys tehdä pr
-
-kolmas yritys
+Summarize our LT discussion here...
