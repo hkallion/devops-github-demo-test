@@ -1,10 +1,6 @@
 
 ## Skills Development 
 
-Harri's edit to this text.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-toinen muutos
-
-Harri's 4th edit, this time to skills section
-- with some bullet points
-- second bullet point
+Summarize our LT discussion here...
