@@ -1,6 +1,4 @@
 
 ## Interlock with Country
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Summarize our LT discussion here...
+We neeed to take the interlock with the countries to the next level! Let's take this to the workforce planning stage 🦖
